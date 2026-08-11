@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node \"C:\\\\Users\\\\User\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\F--Projects-Charubala-LLC-Agency\\\\0740c3fb-cc79-4a83-a217-be69959fbfa2\\\\scratchpad\\\\gen-img.mjs\")",
+      "PowerShell(npm install --prefix \"F:\\\\Projects\\\\Charubala LLC Agency\" --no-fund --no-audit 2>&1)",
+      "PowerShell(Get-Content \"C:\\\\Users\\\\User\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\F--Projects-Charubala-LLC-Agency\\\\0740c3fb-cc79-4a83-a217-be69959fbfa2\\\\tasks\\\\b179urqqb.output\"; \"---\"; try { \\(Invoke-RestMethod http://localhost:5000/api/health -TimeoutSec 5 | ConvertTo-Json -Compress\\) } catch { \"err: \" + $_.Exception.Message })"
+    ]
+  }
+}

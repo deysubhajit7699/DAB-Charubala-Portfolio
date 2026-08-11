@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Reels & posts">
+<rect width="800" height="500" fill="#3B3530"/>
+<circle cx="700" cy="60" r="150" fill="#D9A441" opacity=".12"/>
+<circle cx="90" cy="450" r="120" fill="#D9A441" opacity=".08"/>
+<rect x="150" y="150" width="160" height="120" rx="14" fill="#D9A441" opacity="0.35"/><rect x="340" y="150" width="160" height="120" rx="14" fill="#D9A441" opacity="0.55"/><rect x="530" y="150" width="160" height="120" rx="14" fill="#D9A441" opacity="0.75"/><rect x="150" y="300" width="160" height="120" rx="14" fill="#D9A441" opacity="0.35"/><rect x="340" y="300" width="160" height="120" rx="14" fill="#D9A441" opacity="0.55"/><rect x="530" y="300" width="160" height="120" rx="14" fill="#D9A441" opacity="0.75"/>
+<text x="120" y="90" font-family="Georgia,serif" font-size="30" font-weight="600" fill="#D9A441">Reels & posts</text>
+<text x="120" y="462" font-family="system-ui,sans-serif" font-size="15" letter-spacing="3" fill="#D9A441" opacity=".7">CHARUBALA LLC · SAMPLE</text>
+</svg>

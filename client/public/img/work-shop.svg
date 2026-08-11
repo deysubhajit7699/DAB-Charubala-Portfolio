@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Handloom store">
+<rect width="800" height="500" fill="#C9552A"/>
+<circle cx="700" cy="60" r="150" fill="#F8F3EA" opacity=".12"/>
+<circle cx="90" cy="450" r="120" fill="#F8F3EA" opacity=".08"/>
+<rect x="150" y="150" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.35"/><rect x="340" y="150" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.55"/><rect x="530" y="150" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.75"/><rect x="150" y="300" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.35"/><rect x="340" y="300" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.55"/><rect x="530" y="300" width="160" height="120" rx="14" fill="#F8F3EA" opacity="0.75"/>
+<text x="120" y="90" font-family="Georgia,serif" font-size="30" font-weight="600" fill="#F8F3EA">Handloom store</text>
+<text x="120" y="462" font-family="system-ui,sans-serif" font-size="15" letter-spacing="3" fill="#F8F3EA" opacity=".7">CHARUBALA LLC · SAMPLE</text>
+</svg>

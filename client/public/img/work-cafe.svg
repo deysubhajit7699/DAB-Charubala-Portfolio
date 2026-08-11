@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Café website">
+<rect width="800" height="500" fill="#1F4E46"/>
+<circle cx="700" cy="60" r="150" fill="#D9A441" opacity=".12"/>
+<circle cx="90" cy="450" r="120" fill="#D9A441" opacity=".08"/>
+<rect x="120" y="180" width="360" height="26" rx="13" fill="#D9A441" opacity=".9"/>
+     <rect x="120" y="230" width="520" height="14" rx="7" fill="#D9A441" opacity=".45"/>
+     <rect x="120" y="262" width="460" height="14" rx="7" fill="#D9A441" opacity=".45"/>
+     <rect x="120" y="320" width="200" height="46" rx="23" fill="#D9A441" opacity=".85"/>
+<text x="120" y="90" font-family="Georgia,serif" font-size="30" font-weight="600" fill="#D9A441">Café website</text>
+<text x="120" y="462" font-family="system-ui,sans-serif" font-size="15" letter-spacing="3" fill="#D9A441" opacity=".7">CHARUBALA LLC · SAMPLE</text>
+</svg>

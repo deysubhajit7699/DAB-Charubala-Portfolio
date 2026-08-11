@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<rect width="1200" height="630" fill="#141210"/>
+<circle cx="1080" cy="90" r="260" fill="#C9552A" opacity=".18"/>
+<circle cx="120" cy="600" r="200" fill="#1F4E46" opacity=".35"/>
+<rect x="90" y="86" width="64" height="64" rx="18" fill="#F8F3EA"/>
+<path d="M138 108a22 22 0 1 0 0 28" fill="none" stroke="#C9552A" stroke-width="7" stroke-linecap="round"/>
+<text x="176" y="132" font-family="Georgia,serif" font-size="38" font-weight="600" fill="#F8F3EA">Charubala LLC</text>
+<text x="90" y="300" font-family="Georgia,serif" font-size="76" font-weight="600" fill="#FDFBF7">We take good businesses</text>
+<text x="90" y="386" font-family="Georgia,serif" font-size="76" font-weight="600" fill="#E07A4F">online — properly.</text>
+<text x="90" y="470" font-family="system-ui,sans-serif" font-size="30" fill="#EFE6D7" opacity=".7">Websites · E-commerce · Social media · Branding · Content</text>
+</svg>

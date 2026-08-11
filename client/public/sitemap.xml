@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Update this when you add a project. Replace charubala.com with your real domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://charubala.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://charubala.com/work</loc><priority>0.9</priority></url>
+  <url><loc>https://charubala.com/services</loc><priority>0.9</priority></url>
+  <url><loc>https://charubala.com/team</loc><priority>0.7</priority></url>
+  <url><loc>https://charubala.com/about</loc><priority>0.7</priority></url>
+  <url><loc>https://charubala.com/contact</loc><priority>0.8</priority></url>
+  <url><loc>https://charubala.com/work/mishti-corner-cafe</loc><priority>0.8</priority></url>
+  <url><loc>https://charubala.com/work/bengal-handloom-store</loc><priority>0.8</priority></url>
+  <url><loc>https://charubala.com/work/skyline-fitness-social</loc><priority>0.8</priority></url>
+  <url><loc>https://charubala.com/work/aranya-organics-brand</loc><priority>0.8</priority></url>
+</urlset>
