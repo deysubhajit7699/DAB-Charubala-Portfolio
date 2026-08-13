@@ -1,10 +1,13 @@
 import Reveal from './Reveal'
 import WhatsAppButton from './WhatsAppButton'
+import EmailButton from './EmailButton'
 
 export default function CTASection({
   title = 'Let’s get your business found online.',
-  body = 'One message on WhatsApp. We’ll ask a few questions, tell you honestly what you need — and what you don’t.',
+  body = 'One message — WhatsApp or email, whichever suits you. We’ll ask a few questions, tell you honestly what you need — and what you don’t.',
   message,
+  emailSubject,
+  emailBody,
 }) {
   return (
     <section className="container-x mt-24">
@@ -22,9 +25,12 @@ export default function CTASection({
             {title}
           </h2>
           <p className="mx-auto mt-5 max-w-xl leading-relaxed text-sand-100/75">{body}</p>
-          <WhatsAppButton message={message} className="mt-9">
-            Message us on WhatsApp
-          </WhatsAppButton>
+          <div className="mt-9 flex flex-col items-stretch justify-center gap-3 sm:flex-row sm:items-center">
+            <WhatsAppButton message={message}>Message us on WhatsApp</WhatsAppButton>
+            <EmailButton variant="onDark" subject={emailSubject} body={emailBody}>
+              Email us instead
+            </EmailButton>
+          </div>
         </div>
       </Reveal>
     </section>

@@ -31,6 +31,12 @@ const paths = {
       <path d="M19 3.5v3M17.5 5h3" />
     </>
   ),
+  mail: (
+    <>
+      <rect x="2.5" y="5" width="19" height="14" rx="2.5" />
+      <path d="m3.5 7 7.6 5.4a1.6 1.6 0 0 0 1.8 0L20.5 7" />
+    </>
+  ),
   arrow: <path d="M5 12h14M13 6l6 6-6 6" />,
   check: <path d="m5 13 4.5 4.5L19 7" />,
   whatsapp: null, // rendered separately below (filled, not stroked)
